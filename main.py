@@ -20,7 +20,7 @@ from selenium import webdriver
 
 
 
-TOKEN = '6113310322:AAFLmXtZac3WTl3B2l8wfx7xUCHUCEXCX4w'
+TOKEN = 'token'
 
 
 
