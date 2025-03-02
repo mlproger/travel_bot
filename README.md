@@ -9,11 +9,6 @@ id bota: @prod_travel_bot
 
 
 
-**Схемы данных СУБД**
-<img width="957" alt="Снимок экрана 2024-03-26 в 2 05 56 AM" src="https://github.com/Central-University-IT-prod/backend-mlproger/assets/78304281/f5d63b6f-af3a-41fc-a3fa-c7ed32a022e0">
-Таблицы Notes и Trips связаны между собой общим полем(id путешествия)
-
-
 **Внешние зависимости**
 Для отрисовки карт - folium. Просто в изучении библиотека, мною была выбрана за счет привичного для пользователей стия карты
 
